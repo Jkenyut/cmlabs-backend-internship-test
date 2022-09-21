@@ -1,6 +1,6 @@
 // satria nur saputro
 // Intership Backend
-// looping sampe 100
+// looping 1 sampe 100
 for (let i = 1; i < 101; i++) {
   // jika i kelipatan  3 dan 5
   if (i % 3 === 0 && i % 5 === 0) {
